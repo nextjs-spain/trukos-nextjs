@@ -1,5 +1,6 @@
-# trukos-nextjs
+# Trukos Nextjs
 
+# Llamada a API desde el servidor.
 
 ```
 import Layout from "../components/Layout";
