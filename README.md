@@ -1,5 +1,12 @@
 # Trukos Nextjs
 
+# Comandos
+```
+npx create-next-app partcombinator-nextjs  --use-npm
+npx create-next-app .
+npm run dev
+```
+
 # Boostrap
 ```
 import 'bootswatch/dist/cosmo/bootstrap.min.css'
