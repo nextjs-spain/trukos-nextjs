@@ -1,7 +1,7 @@
 # trukos-nextjs
 
 
-´´´
+```
 import Layout from "../components/Layout";
 import Error from "./_error";
 
@@ -51,4 +51,4 @@ export async function getServerSideProps(){
 
 
 export default Github;
-´´´
+```
